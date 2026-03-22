@@ -1,0 +1,5 @@
+{
+  "name": "Lens Lite",
+  "description": "A lightweight visual analysis tool supporting English and Burmese.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
